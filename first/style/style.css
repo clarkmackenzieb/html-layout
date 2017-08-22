@@ -1,0 +1,33 @@
+.dumb-header {
+    background-color: #444444;
+    width: auto;
+    height: 100px;
+}
+
+.left-column {
+    float: left;
+    background-color: #D8D8D8;
+    width: 100px;
+    height: 820px;
+}
+
+.center-column {
+
+}
+
+.right-column {
+    float: right;
+    background-color: #D8D8D8;
+    width: 100px;
+    height: 820px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: #222222;
+    height: 100px;
+    width: 721px;
+    margin: 0px 100px 0px 100px;
+
+}

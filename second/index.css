@@ -1,0 +1,40 @@
+.col1 {
+    height: 100%;
+    width: 33%;
+    float: left;
+    background-color: #4A90E2;
+}
+
+.col2 {
+    height: 100%;
+    width: 33%;
+    float: left;
+    margin: 0px 0px 0px 0px;
+    background-color: #50E3C2;
+
+}
+
+.col3 {
+    height: 100%;
+    width: 34%;
+    float: right;
+    background-color: #B8E986;
+}
+
+.dat-box {
+    height: 200px;
+    width: 100%;
+    margin: 229% 0% 0% 0%;
+    background-color: #D0021B;
+    float: right;
+    
+    
+}
+
+.dattext {
+    color: white;
+    text-align: center;
+    padding: 25% 25% 25% 25%;
+    font-size: 20px;
+}
+
