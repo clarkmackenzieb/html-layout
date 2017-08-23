@@ -1,0 +1,49 @@
+header {
+    background-color: #D8D8D8;
+    width: 100%;
+    height: 100px;
+
+}
+
+.iconplace {
+    background-color: #4A90E2;
+    width: 75px;
+    height: 75px;
+    float: left;
+    margin: 12px 10px;
+
+}
+
+.textlocation {
+    background-color: white;
+    width: auto;
+    height: 100px;
+    padding: 10% 20% 10% 20%;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.space1 {
+    height: 150px;
+    width: auto;
+    background-color: #4A90E2;
+}
+
+.space2 {
+    height: 150px;
+    width: auto;
+    background-color: #50E3C2;
+}
+
+.space3 {
+    height: 150px;
+    width: auto;
+    background-color: #B8E986;
+}
+
+.bottomspace {
+    height: 150px;
+    width: auto;
+    background-color: #F8E71C;
+}
